@@ -99,26 +99,26 @@ ul.art-vmenu a
    font-weight: bold;
    font-style: normal;
    text-decoration: none;
-   color: #18A1F7;
+   color: #44B3F8;
 }
 
 .art-postcontent a:visited, .art-postcontent a.visited
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #FD7712;
+   color: #FD913F;
 }
 
 .art-postcontent  a:hover, .art-postcontent a.hover
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: underline;
-   color: #0773B6;
+   color: #22A5F7;
 }
 
 .art-postcontent h1
 {
-   color: #FD7712;
+   color: #FD913F;
    margin-top: 21px;
    margin-bottom: 21px;
    font-size: 32px;
@@ -141,7 +141,7 @@ ul.art-vmenu a
 
 .art-postcontent h2
 {
-   color: #FD9444;
+   color: #FDA662;
    margin-top: 19px;
    margin-bottom: 19px;
    font-size: 24px;
@@ -206,7 +206,7 @@ ul.art-vmenu a
 
 .art-postcontent h5
 {
-   color: #D9D9D9;
+   color: #E0E0E0;
    margin-top: 26px;
    margin-bottom: 26px;
    font-size: 13px;
@@ -229,7 +229,7 @@ ul.art-vmenu a
 
 .art-postcontent h6
 {
-   color: #A1A1A1;
+   color: #B0B0B0;
    margin-top: 35px;
    margin-bottom: 35px;
    font-size: 11px;
@@ -950,7 +950,7 @@ ul.art-hmenu ul
 
 .art-sheet
 {
-   background: #031526 url('images/sheet.png') scroll;
+   background: #162746 url('images/sheet.png') scroll;
    -webkit-box-shadow:0 0 3px 2px rgba(0, 0, 0, 0.15);
    -moz-box-shadow:0 0 3px 2px rgba(0, 0, 0, 0.15);
    box-shadow:0 0 3px 2px rgba(0, 0, 0, 0.15);
@@ -1033,7 +1033,7 @@ div.art-block img
 {
    padding:5px;
    margin:0 auto;
-   color: #D1D1D1;
+   color: #DBDBDB;
    font-size: 13px;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
 }
@@ -1044,7 +1044,7 @@ div.art-block img
 .art-blockcontent a:visited,
 .art-blockcontent a:hover
 {
-   color: #D1D1D1;
+   color: #DBDBDB;
    font-size: 13px;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
 }
@@ -1056,14 +1056,14 @@ div.art-block img
 
 .art-blockcontent a, .art-blockcontent a:link
 {
-   color: #30ABF8;
+   color: #58BBF9;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
 }
 
 .art-blockcontent a:visited, .art-blockcontent a.visited
 {
-   color: #C2C2C2;
+   color: #C7C7C7;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
 }
@@ -1097,7 +1097,7 @@ div.art-block img
    font-size: 13px;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    line-height: 125%;
-   color: #E0E0E0;
+   color: #E5E5E5;
    margin: 0 0 2px;
 }
 
@@ -1135,7 +1135,7 @@ button.art-button
    vertical-align: middle;
    white-space: nowrap;
    text-align: center;
-   color: #D8EFFE;
+   color: #DDF1FE;
    margin: 0 5px 0 0 !important;
    overflow: visible;
    cursor: pointer;
@@ -1350,7 +1350,7 @@ label.art-checkbox
    font-style: normal;
    line-height: 16px;
    display: inline-block;
-   color: #C7C7C7 !important;
+   color: #D1D1D1 !important;
 }
 
 .art-checkbox>input[type="checkbox"]
@@ -1404,7 +1404,7 @@ label.art-radiobutton
    font-style: normal;
    line-height: 12px;
    display: inline-block;
-   color: #C7C7C7 !important;
+   color: #D1D1D1 !important;
 }
 
 .art-radiobutton>input[type="radio"]
@@ -1448,7 +1448,7 @@ label.art-radiobutton.hovered:before
 
 .art-comments h2
 {
-   color: #FDA968;
+   color: #FEBA86;
 }
 
 .art-comment-inner
@@ -1481,7 +1481,7 @@ label.art-radiobutton.hovered:before
 .art-comment-content
 {
    padding:10px 0;
-   color: #93D3FB;
+   color: #A6DBFC;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
 }
 
@@ -1497,7 +1497,7 @@ label.art-radiobutton.hovered:before
 
 .art-comment-header
 {
-   color: #FDA968;
+   color: #FEBA86;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    line-height: 100%;
 }
@@ -1544,19 +1544,19 @@ label.art-radiobutton.hovered:before
 .art-comment-content a, .art-comment-content a:link
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
-   color: #EBEBEB;
+   color: #F0F0F0;
 }
 
 .art-comment-content a:visited, .art-comment-content a.visited
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
-   color: #B5E1FC;
+   color: #C4E7FD;
 }
 
 .art-comment-content a:hover,  .art-comment-content a.hovered
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
-   color: #EBEBEB;
+   color: #F0F0F0;
 }
 
 .art-pager
@@ -1693,13 +1693,13 @@ label.art-radiobutton.hovered:before
    padding:10px;
    margin:0 auto;
    margin-top:25px;
-   color: #FDA968;
+   color: #FEBA86;
 }
 
 .art-commentsform h2{
    padding-bottom:10px;
    margin: 0;
-   color: #FDA968;
+   color: #FEBA86;
 }
 
 .art-commentsform label {
@@ -1812,7 +1812,7 @@ pre
 
 .art-postheader
 {
-   color: #49B5F8;
+   color: #6BC3FA;
    margin-top: 5px;
    margin-bottom: 5px;
    font-size: 24px;
@@ -1835,7 +1835,7 @@ pre
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
    text-align: left;
-   color: #FD862B;
+   color: #FD913F;
 }
 
 .art-postheader a:visited, .art-postheader a.visited
@@ -1843,7 +1843,7 @@ pre
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
    text-align: left;
-   color: #C2C2C2;
+   color: #C4C4C4;
 }
 
 .art-postheader a:hover,  .art-postheader a.hovered
@@ -1851,7 +1851,7 @@ pre
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
    text-align: left;
-   color: #FD9444;
+   color: #FDA662;
 }
 
 .art-postheadericons,
@@ -1861,7 +1861,7 @@ pre
 .art-postheadericons a:hover
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
-   color: #D9D9D9;
+   color: #E0E0E0;
 }
 
 .art-postheadericons
@@ -1873,7 +1873,7 @@ pre
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #FDA35D;
+   color: #FEBD8B;
 }
 
 .art-postheadericons a:visited, .art-postheadericons a.visited
@@ -1882,7 +1882,7 @@ pre
    font-weight: normal;
    font-style: italic;
    text-decoration: none;
-   color: #FDA35D;
+   color: #FEBD8B;
 }
 
 .art-postheadericons a:hover, .art-postheadericons a.hover
@@ -1891,7 +1891,7 @@ pre
    font-weight: normal;
    font-style: italic;
    text-decoration: underline;
-   color: #FEC090;
+   color: #FED1AE;
 }
 
 .art-postpdficon:before
@@ -1966,7 +1966,7 @@ pre
 {
    font-size: 13px;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
-   color: #C7C7C7;
+   color: #D1D1D1;
    margin: 0 0 0 26px;
 }
 
@@ -2056,7 +2056,7 @@ blockquote p,
 .art-postfootericons a:hover
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
-   color: #D9D9D9;
+   color: #E0E0E0;
 }
 
 .art-postfootericons
@@ -2068,21 +2068,21 @@ blockquote p,
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #FDA35D;
+   color: #FEBD8B;
 }
 
 .art-postfootericons a:visited, .art-postfootericons a.visited
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #FDA35D;
+   color: #FEBD8B;
 }
 
 .art-postfootericons a:hover, .art-postfootericons a.hover
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #FEC090;
+   color: #FED1AE;
 }
 
 .art-footer

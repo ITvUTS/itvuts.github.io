@@ -1217,13 +1217,29 @@ resizeData['object1072346909'] = {
    height: 182,
    autoWidth: false};
 
+resizeData['object1077306880'] = {
+   responsive: [
+                  { left: 0.5, top: 1, visible: true }, 
+                  { left: 0.5, top: 1, visible: true }, 
+                  { left: 0.5, top: 1, visible: true }, 
+                  { left: 0.5, top: 1, visible: true }, 
+                  { left: 0.5, top: 1, visible: true }, 
+               ],
+   area: {
+       x: 0,
+       y: 0
+   },
+   width: 1920,
+   height: 56,
+   autoWidth: false};
+
 resizeData['headline'] = {
    responsive: [
-                  { left: 0.55, top: 0.87, visible: true }, 
-                  { left: 0.55, top: 0.87, visible: true }, 
-                  { left: 0.55, top: 0.87, visible: true }, 
-                  { left: 0.55, top: 0.87, visible: true }, 
-                  { left: 0.55, top: 0.87, visible: true }, 
+                  { left: 0.54, top: 0.89, visible: true }, 
+                  { left: 0.54, top: 0.89, visible: true }, 
+                  { left: 0.54, top: 0.89, visible: true }, 
+                  { left: 0.54, top: 0.89, visible: true }, 
+                  { left: 0.54, top: 0.89, visible: true }, 
                ],
    area: {
        x: 0,

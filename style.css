@@ -394,7 +394,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
     left: 100%;
     margin-left: -118px;
     position: absolute;
-    top: 10px;
+    top: 18px;
     width: 179px;
     height: 179px;
     background-image: url('images/object1623040845.png');
@@ -412,7 +412,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
     left: 0%;
     margin-left: -63px;
     position: absolute;
-    top: 11px;
+    top: 19px;
     width: 182px;
     height: 182px;
     background-image: url('images/object1072346909.png');
@@ -424,14 +424,119 @@ li p, .art-postcontent li p, .art-blockcontent li p
 .default-responsive .art-object1072346909
 {
   display: none;
-}.art-headline
+}.art-object1077306880 h1, 
+.art-object1077306880 h2, 
+.art-object1077306880 h3, 
+.art-object1077306880 h4, 
+.art-object1077306880 h5, 
+.art-object1077306880 h6, 
+.art-object1077306880 p, 
+.art-object1077306880 a, 
+.art-object1077306880 ul, 
+.art-object1077306880 ol, 
+.art-object1077306880 li
+{
+  line-height: 100%;
+}
+
+.art-object1077306880
+{  
+  position: absolute;
+  top: 244px;
+  left: 50%;
+  margin-left: -960px !important;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+    overflow: hidden;
+      background-image: url('images/object1077306880.png');
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
+    z-index: 3;
+  width: 1920px;
+  height: 56px;
+}
+
+.default-responsive .art-object1077306880
+{
+    background-image: none;
+  }
+
+.art-object1077306880-text-container 
+{
+    display: table;
+}
+
+.art-object1077306880-text
+{
+  display: table-cell;
+  outline-style: none;
+  padding: 0px 0px !important;
+  height: 56px;
+  width: 1920px;  
+word-wrap: break-word;
+}
+
+.default-responsive .art-object1077306880-text 
+{
+    height: auto;
+}
+
+.art-object1077306880-text,
+.art-object1077306880-text a.art-rss-tag-icon,
+.art-object1077306880-text a.art-facebook-tag-icon,
+.art-object1077306880-text a.art-twitter-tag-icon,
+.art-object1077306880-text a.art-tumblr-tag-icon,
+.art-object1077306880-text a.art-pinterest-tag-icon,
+.art-object1077306880-text a.art-vimeo-tag-icon,
+.art-object1077306880-text a.art-youtube-tag-icon,
+.art-object1077306880-text a.art-linkedin-tag-icon
+{
+font-size: 30px;
+font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;
+text-align: left;
+vertical-align: middle;
+  color: #787878 !important;
+}
+
+.art-object1077306880-text a.art-rss-tag-icon,
+.art-object1077306880-text a.art-facebook-tag-icon,
+.art-object1077306880-text a.art-twitter-tag-icon,
+.art-object1077306880-text a.art-tumblr-tag-icon,
+.art-object1077306880-text a.art-pinterest-tag-icon,
+.art-object1077306880-text a.art-vimeo-tag-icon,
+.art-object1077306880-text a.art-youtube-tag-icon,
+.art-object1077306880-text a.art-linkedin-tag-icon
+{
+    width: 100%;
+}
+
+.default-responsive .art-object1077306880-text a.art-rss-tag-icon,
+.default-responsive .art-object1077306880-text a.art-facebook-tag-icon,
+.default-responsive .art-object1077306880-text a.art-twitter-tag-icon,
+.default-responsive .art-object1077306880-text a.art-tumblr-tag-icon,
+.default-responsive .art-object1077306880-text a.art-pinterest-tag-icon,
+.default-responsive .art-object1077306880-text a.art-vimeo-tag-icon,
+.default-responsive .art-object1077306880-text a.art-youtube-tag-icon,
+.default-responsive .art-object1077306880-text a.art-linkedin-tag-icon
+{
+    width: auto;
+}
+
+.art-textblock ul > li
+{
+    background-position-y: 8px !important;
+}
+.art-headline
 {
   display: inline-block;
   position: absolute;
   min-width: 50px;
-  top: 199px;
-  left: 55.12%;
-  margin-left: -426px !important;
+  top: 247px;
+  left: 54.33%;
+  margin-left: -419px !important;
   line-height: 100%;
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
@@ -463,7 +568,7 @@ text-shadow: 1px 0px 0px rgb(23, 23, 23), -1px 0px 0px rgb(23, 23, 23), 0px -1px
   display: inline-block;
   position: absolute;
   min-width: 50px;
-  top: 229px;
+  top: 278px;
   left: 50.85%;
   line-height: 100%;
   margin-left: -337px !important;
@@ -503,7 +608,7 @@ text-shadow: 1px 0px 0px rgb(23, 23, 23), -1px 0px 0px rgb(23, 23, 23), 0px -1px
    border:1px solid #162746;
    margin:0 auto;
    background-repeat: no-repeat;
-   height: 250px;
+   height: 300px;
    position:relative;
    background-image: url('images/header.png');
    background-position: center top;
